@@ -1,0 +1,331 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Balance Inward"
+			],
+			[
+				"install package control",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			],
+			[
+				"package control",
+				"Install Package Control"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"{\n\t\"bootstrapped\": true,\n\t\"in_process_packages\":\n\t[\n\t],\n\t\"installed_packages\":\n\t[\n\t\t\"Emmet\",\n\t\t\"Package Control\",\n\t\t\"spotify-control\",\n\t],\n}\n"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": true,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Windows/OneDrive/Documents/Documentos/NovoProjeto Museu Udemy/Css/estilo.css",
+		"/C/Users/Windows/OneDrive/Documents/Documentos/NovoProjeto Museu Udemy/index.html",
+		"/C/Users/Windows/OneDrive/Documents/Documentos/NovoProjeto Museu Udemy/Css/normalize.css",
+		"/C/Users/Windows/OneDrive/Documents/Documentos/NovoProjeto Museu Udemy/._estilo.css",
+		"/C/Users/Windows/OneDrive/Documents/Documentos/NovoProjeto Museu Udemy/._normalize.css",
+		"/C/Program Files/OneDrive/Documents/Senac/pti _scriptweb/scriptweb/calculoMedia.js",
+		"/C/Program Files/OneDrive/Documents/Senac/pti _scriptweb/scriptweb/index2.html",
+		"/C/Program Files/OneDrive/Documents/Senac/pti _scriptweb/scriptweb/style.css",
+		"/C/Program Files/OneDrive/Documents/Senac/pti _scriptweb/scriptweb/index.html",
+		"/C/Program Files/OneDrive/Documents/Senac/pti _scriptweb/scriptweb/calculo-media.js",
+		"/C/Program Files/OneDrive/Documents/AulaHTml/Projetoptiwebstand/pti scriptpg.js/index.html",
+		"/C/Program Files/OneDrive/Documents/Senac/webstand/Aula/public/css/fonts.css",
+		"/C/Program Files/OneDrive/Documents/Senac/webstand/Aula/public/css/global.css",
+		"/C/Program Files/OneDrive/Documents/JS/index.html",
+		"/C/Program Files/OneDrive/Documents/AulaHTml/Projetoptiwebstand/index.html",
+		"/C/Program Files/OneDrive/Documents/AulaHTml/Projetoptiwebstand/style.css",
+		"/C/Program Files/OneDrive/Documents/Downloads/HTML-Layout-1-System-main/HTML-Layout-1-System-main/assets/css/layout.css",
+		"/C/Program Files/OneDrive/Documents/AulaHTml/Projetoptiwebstand/css",
+		"/C/Program Files/OneDrive/Documents/AulaHTml/Projetoptiwebstand/quem -somos.html",
+		"/C/Program Files/OneDrive/Documents/AulaHTml/Projeto html/index.html",
+		"/C/Program Files/OneDrive/Documents/AulaHTml/Projetoptiwebstand/projeto-restaurante.html",
+		"/C/Program Files/OneDrive/Documents/Senac/AulaHTml/index.html",
+		"/C/Program Files/OneDrive/Documents/Senac/AulaHTml/Projeto html/imagens/logo.png",
+		"/C/Program Files/OneDrive/Documents/Senac/AulaHTml/Projeto html/Imagens/._logo.png",
+		"/C/Program Files/OneDrive/Documents/Senac/AulaHTml/Projeto html/Imagens/fundo2.png",
+		"/C/Program Files/OneDrive/Documents/Senac/AulaHTml/Projeto html/Imagens/fundo.png",
+		"/C/Program Files/Sublime Text/ptiweb.html",
+		"/C/Users/Windows/OneDrive/Documents/pti Alg 2/projeto.pti_alg2.html",
+		"/C/Users/Windows/OneDrive/Documents/Aulas e cursos Info/Udemy/Javascript/variaveis2.html",
+		"/C/Users/Windows/OneDrive/Documents/Aulas e cursos Info/Udemy/Javascript/index.html",
+		"/C/Users/Windows/OneDrive/Documents/Aulas e cursos Info/Udemy/Javascript/variaveis.html",
+		"/C/Users/Windows/OneDrive/Documents/Aulas e cursos Info/Udemy/Javascript/meu_script.js",
+		"/C/Users/Windows/OneDrive/Documents/Aulas e cursos Info/Udemy/Javascript/concatenacao.html",
+		"/C/Users/Windows/OneDrive/Documents/Aulas e cursos Info/Udemy/Javascript/switch.html",
+		"/C/Users/Windows/OneDrive/Documents/Fundacao Bradesco/Site_final/folhadeestilo.css",
+		"/C/Users/Windows/OneDrive/Documents/Fundacao Bradesco/Site_final/index.html",
+		"/C/Users/Windows/OneDrive/Documents/Fundacao Bradesco/Site_final/sobre.html",
+		"/C/Users/Windows/OneDrive/Documents/Fundacao Bradesco/Site_final/contato.html",
+		"/C/Users/Windows/OneDrive/Documents/Fundacao Bradesco/Site_final/clientes.html",
+		"/C/Users/Windows/OneDrive/Documents/Fundacao Bradesco/Site_final/Imagem/clientes.png",
+		"/C/Users/Windows/OneDrive/Documents/Fundacao Bradesco/Site_final/Imagem/html51.jpg",
+		"/C/Users/Windows/OneDrive/Documents/Fundacao Bradesco/Site_final/Imagem/html5 (1)-compactado.pdf",
+		"/C/Users/Windows/OneDrive/Documents/Fundacao Bradesco/Site_final/Imagem/banner-fundo.jpg",
+		"/C/Users/Windows/OneDrive/Documents/Fundacao Bradesco/Site_final/Imagem/logo.png",
+		"/C/Users/Windows/OneDrive/Documents/Fundacao Bradesco/index.html",
+		"/C/Users/Windows/OneDrive/Documents/Fundacao Bradesco/Site_final/Css/folhadeestilo.css",
+		"/C/Users/Windows/OneDrive/Documents/Fundacao Bradesco/folhadeestilo.css",
+		"/C/Users/Windows/OneDrive/Documents/Cursos/Udemy/switch.html",
+		"/C/Users/Windows/AppData/Roaming/Sublime Text/Packages/User/teste.html",
+		"/C/Users/Windows/AppData/Roaming/Sublime Text/Packages/User/Canalphp.php",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Javascript/index. buscaphp.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Javascript/meu-script.js",
+		"/C/Users/Windows/OneDrive/Documents/Aulas Info/Css3 recursos/Animacao/animacao.html",
+		"/C/Users/Windows/OneDrive/Documents/Aulas Info/Css3 recursos/Animacao/estilo.animacao.css",
+		"/C/Users/Windows/OneDrive/Documents/estilo.aniamacao.css",
+		"/C/Users/Windows/OneDrive/Documents/Aulas Info/Css3 recursos/Animacoes/animacoes.html",
+		"/C/Users/Windows/OneDrive/Documents/Aulas Info/Css3 recursos/sombra/sombra.css",
+		"/C/Users/Windows/OneDrive/Documents/Aulas Info/Css3 recursos/degrade/degrade.html",
+		"/C/Users/Windows/OneDrive/Documents/Aulas Info/Css3 recursos/degrade/degrade.css",
+		"/C/Users/Windows/OneDrive/Documents/Aulas Info/Fontes/estilo.css",
+		"/C/Users/Windows/OneDrive/Documents/Aulas Info/Fontes/normalize.html",
+		"/C/Users/Windows/OneDrive/Documents/Aulas Info/Css3 recursos/estilo.css/normalize.css",
+		"/C/Users/Windows/OneDrive/Documents/Aulas Info/Fontes/normalize.css_8.0.1_normalize.css",
+		"/C/Users/Windows/AppData/Roaming/Sublime Text/Installed Packages/JavaScriptNext - ES6 Syntax.sublime-package",
+		"/C/Users/Windows/AppData/Roaming/Sublime Text/Packages/Python.sublime-package",
+		"/C/Users/Windows/AppData/Local/Temp/Temp1_LocalizedMenu-master.zip/LocalizedMenu-master/LocalizedMenu.sublime-settings",
+		"/C/Users/Windows/AppData/Roaming/Sublime Text/Packages/Package Control/package_control/package_installer.py",
+		"/C/Users/Windows/OneDrive/Documents/Aulas Info/Fontes/Animacoes/aniamacoes.html",
+		"/C/Users/Windows/OneDrive/Documents/Aulas Info/Fontes/Animacoes/aniamacoes.css",
+		"/C/Users/Windows/OneDrive/Documents/aniamacoes.css",
+		"/C/Users/Windows/OneDrive/Documents/Aulas Info/Fontes/sombra.css",
+		"/C/Users/Windows/OneDrive/Documents/Aulas Info/Fontes/sombra/sombra.html",
+		"/C/Users/Windows/OneDrive/Documents/Aulas Info/Fontes/degrade.html",
+		"/C/Users/Windows/OneDrive/Documents/Aulas Info/Fontes/css",
+		"/C/Users/Windows/OneDrive/Documents/degrade.html",
+		"/C/Users/Windows/OneDrive/Documents/estilo.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/fontes/fonts/index.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/fontes/index.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Udemy-parallax/parallax.html",
+		"/C/Users/Windows/AppData/Roaming/Sublime Text/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Udemy-parallax/arquivos-necessarios-parallax/parallax.html/parallax",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Chale Hotel/chale.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Chale Hotel/css/estilo-chale.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Chale Hotel/css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Chale Hotel/Chale Hotel",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Chale/estilo-chale.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Chale/chale.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Chale/Imagens/bg.png",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Noticias-cidade/index.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Noticias-cidade/css/estilo.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Noticias-cidade/noticias-cidade.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/Formularios/Arredondamento Imagens/formularios.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/Formularios/Arredondamento Imagens/arredondamento.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/Formularios/estilizando-formulários2.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/Formularios/formularios.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/Tabelas/tabela.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/Tabelas/tabela.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/tabela.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/tabelas.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/Layout/estilo.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/Layout/layout.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/escolabrad.css/bradcss.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/escolabrad.css/estilo.brad.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/Layout/layouts.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/navegacao com abas/estilo.abas.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/navegacao com abas/navegacao-abas.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/navegacao com abas/sobre.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/navegacao com abas/servicos.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/navegacao horizontal/navegacao-horizontal.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/navegacao horizontal/estilo2.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/navegacao-horizontal.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/estilo3.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/barra vertical/estilo2.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/barra vertical/navegacao-vertical.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/barra/navegacao-vertical.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/herança/estilo.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/aprendendo css.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/herança/herança.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/navegacao-vertical.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/barra vertical/herança.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/barra vertical/estilo.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Aulas, projetos e estudo TI/Projetos Css/Css3 intermed e avan/barra vertical/aprendendo css.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/exercicio1. html",
+		"/C/Users/Windows/OneDrive/Documents/aprendendo css.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Projetos Css/Css3 intermed e avan/barra vertical/index.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Projetos Css/Css3 intermed e avan/barra vertical/estilo.css",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Projetos Css/Css3 intermed e avan/barra vertical/navegacao-barra-vertical.html",
+		"/C/Users/Windows/OneDrive/Área de Trabalho/Projetos Css/Css3 intermed e avan/barra vertical/navegacao-vertical.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/ActionScript/ActionScript.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
